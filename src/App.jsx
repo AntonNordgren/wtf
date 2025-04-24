@@ -8,7 +8,7 @@ function App() {
       <div className="container">
         <h1 className="title">This website sucks</h1>
         <br />
-        <img className="picture" src="../stupid-cat.jpg" />
+        <img className="picture" src="./../stupid-cat.jpg" />
 
       </div>
 
